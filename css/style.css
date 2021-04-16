@@ -1,0 +1,176 @@
+.write {
+  background-color: #1C2329;
+  position: relative;
+  left: 888px;
+  bottom: 0px;
+  width: 350px;
+  height: 321px;
+  margin-bottom: 0;
+  display: inline-block;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 10px;
+  border-color: #1C2329;
+}
+
+hr#first_line {
+  border-style: dotted none none;
+  width: 78px;
+  border-width: 10px;
+  border-color: #1C2329;
+}
+
+hr#second_line {
+  border-style: dotted none none;
+  width: 156px;
+  border-width: 10px;
+  border-color: #1C2329;
+}
+
+hr#third_line {
+  border-style: dotted none none;
+  width: 312.5px;
+  border-width: 10px;
+  border-color: #1C2329;
+}
+
+hr#fourth_line {
+  border-style: dotted none none;
+  width: 625px;
+  border-width: 10px;
+  border-color: #1C2329;
+}
+
+hr#fifth_line {
+  border-style: dotted none none;
+  width: 1250px;
+  border-width: 10px;
+  border-color: #1C2329;
+}
+
+
+p {
+  box-sizing:
+    text-indent: 10px;
+  /*indent*/
+  text-align: justify;
+  /*alignment*/
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+h2 {
+  text-indent: 10px;
+}
+
+h4 {
+  text-indent: 10px;
+}
+
+header {
+  background-color: #1C2329;
+  height: 360px;
+  display: block;
+  border: 5px solid black;
+}
+
+section {
+  background-color: #1C2329;
+  display: block;
+  border: 5px solid black;
+}
+
+img.floatleft {
+  float: left;
+  clear: none;
+}
+
+img.floatright {
+  float: right;
+  clear: none;
+}
+
+nav {
+  background-color: #1C2329;
+  position: absolute;
+  display: inline-block;
+}
+
+footer {
+  display: block;
+  border: 5px solid black;
+}
+
+.circular {
+  border-radius: 50%;
+}
+
+body {
+  background-color: #2B7A77;
+  color: #DEF2F1;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 29px;
+}
+
+img.profile {
+  margin-left: 350px;
+}
+
+img.margins {
+  margin: 5px 20px 5px 20px;
+}
+
+h1 {
+  text-indent: 20px;
+  margin-top: 80px;
+}
+
+.p_border {
+  margin: 20px 20px 20px 20px;
+  text-indent: 20px;
+  padding: 25px 10px 25px 10px;
+}
+
+nav.box {
+  width: 800px;
+  height: 500px;
+  padding: 25px;
+  border: 5px solid black;
+}
+
+div.box {
+  width: 555px;
+  height: 500px;
+  padding: 25px;
+  border: 5px solid black;
+}
+
+marquee {}
+
+p.cleared_left {
+  clear: left;
+}
+
+p.cleared_right {
+  clear: right;
+}
+
+p.cleared_both {
+  clear: both;
+}
+.invisible{
+  display: none;
+}
+span{
+  color: #0BF59C;
+}
+table {
+  background-color: #12CA98;
+  color: #1C2329;
+  padding: 10px;
+  margin-left:0px;
+  margin-right: 0px;
+  width: 800px;
+}

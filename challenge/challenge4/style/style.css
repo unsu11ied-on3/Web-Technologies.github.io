@@ -1,0 +1,22 @@
+div.box{
+height: 200px;
+border:solid;
+border-width: 50px;
+padding: 20px;
+margin: 10px;
+width: 200px;
+position: absolute;
+}
+div.top_container{
+  background-color: red;
+  left: 700px;
+  bottom: -350px;
+}
+div.mid_container{
+  background-color: blue;
+  left: 350px;
+  bottom: 0px;
+}
+div.bot_container{
+  background-color: green;
+}
